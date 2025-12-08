@@ -1,0 +1,36 @@
+						GIT HUB
+---------------------------------------------------------------------------------------------------------------------------
+Git VS GitHub
+
+Staging area and commits
+
+Branches
+
+Issues and PRs
+---------------------------------------------------------------------------------------------------------------------------
+GIT->version control system
+project-website<-updates  redeploy
+	   |
+	traffic(real world website)
+
+S/W Development->bugs/errors
+ex:facebook<-updates
+facebook.com<-bugs(new updates have some bugs)
+UX(low),traffic(low)
+so...so you need to revert back(need to previous version)
+->version changes
+->project save
+
+sudo apt-get install git
+---------------------------------------------------------------------------------------------------------------------------
+GIT		|Working directory(4)|	Staging Area(3)		|Local Respository(2)		|remote repository(1)
+					(single file)		(bunch of files)		  (bunch of files)						
+	-------->ex1.txt		--->git add ex1.txt   --->git commit -m"message"      --->git push
+		 >ex.py
+---------------------------------------------------------------------------------------------------------------------------
+
+-repo->folder or package for a project
+remote repo->any server or internet saved the respository
+
+Github->one example of remote respository is hosting service(host->storing others projects on your server)
+
