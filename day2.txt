@@ -1,0 +1,35 @@
+							PYTHON
+----------------------------------------------------------------------------------------------------------------------------
+variable
+datatypes:
+text:str
+numeric:int,float,complex
+sequence:list,range,tuple
+mapping:dict
+set:set
+boolean:bool
+----------------------------------------------------------------------------------------------------------------------------
+input/output
+
+print,input
+print("hello")
+x=input("enter a number:")
+print(type(a))
+----------------------------------------------------------------------------------------------------------------------------
+operators
+
+arithmetic +,-,/,*,%
+
+assignment =,+=,-=,*=,/=,%=
+
+comparison >,<,>=,<=,==,!=
+
+logical AND OR NOT
+
+identity is(==),is not(!=)(objects)
+
+membership in,not in(list,tuple etc)
+
+bitwise &,|,!,^
+
+----------------------------------------------------------------------------------------------------------------------------
